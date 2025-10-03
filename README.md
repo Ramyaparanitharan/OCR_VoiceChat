@@ -1,4 +1,4 @@
-# OCR Voice Chat - Frontend
+# OCR Voice Chat
 
 This is the frontend application for the OCR Voice Chat system, built with Vue.js 3, TypeScript, and Vite. The application provides a user-friendly interface for interacting with the OCR and voice processing backend.
 
