@@ -1,0 +1,23 @@
+{
+  "messages": [
+    {
+      "id": "8697fd67-716e-4b58-bc9f-90f0ec8bbdef",
+      "timestamp": "2025-09-23T01:52:17.502926",
+      "role": "user",
+      "content": "what is the context of the document",
+      "document_context": {
+        "document_preview": "pages=[OCRPageObject(index=0, markdown='![img-0.jpeg](img-0.jpeg)\\n\\n![img-1.jpeg](img-1.jpeg)\\n\\n# GEN-AI ACCELERATORS\\n\\n## Elevate Your Developer Workflow\\n\\nwww.optisolbusiness.com', images=[OCRImageObject(id='img-0.jpeg', top_left_x=54, top_left_y=162, bottom_right_x=195, bottom_right_y=269, image_base64='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyM...",
+        "context_length": 97859
+      },
+      "metadata": {}
+    },
+    {
+      "id": "fea463a5-4c0b-4674-83ce-8c743fbde8e7",
+      "timestamp": "2025-09-23T01:52:35.559465",
+      "role": "assistant",
+      "content": "",
+      "document_context": {},
+      "metadata": {}
+    }
+  ]
+}
